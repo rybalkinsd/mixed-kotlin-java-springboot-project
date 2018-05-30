@@ -1,0 +1,4 @@
+spring:
+  application:
+    name: mixed-kotlin-java-app
+    group: com.mixed.kotlinjava
